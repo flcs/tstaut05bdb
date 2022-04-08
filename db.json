@@ -23,9 +23,6 @@
 		{ "id": 5, "troca": 2, "produto_volta": 1, "quant_volta": 1, "produto_sai": 2, "quant_sai": 2 }
 	],
 	"sobrando": [
-	],
-	"profile": {
-	    "name": "typicode"
 	}
 }
 
